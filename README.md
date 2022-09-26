@@ -33,8 +33,10 @@ The class website is located [here](https://www.wgilpin.com/cphy/?utm_source=en_
 + [Lab 1: Getting started with Python](labs/getting_started_with_python.md)
 + [Lab 2: git, GitHub, and GitHub Pages](labs/git_and_github.md)
 + [Lab 3: Documentation and Formatting](labs/documentation_and_formatting.md)
-+ [Lab 4: Unit Testing](http://www.wgilpin.com/howto/python_unit_testing.html)
-+ [Lab 5: Structuring an Open-Source Repository](http://www.wgilpin.com/howto/python_project.html)
++ [Lab 4: Automatically creating online documentation with Sphinx](http://www.wgilpin.com/howto/howto_sphinx.html)
++ [Lab 5: Unit Testing](http://www.wgilpin.com/howto/python_unit_testing.html)
++ [Lab 6: Structuring an Open-Source Repository](http://www.wgilpin.com/howto/python_project.html)
+
 
 #### Lecture Slides and Notes
 + [Lecture 1: Python for Scientific Computing, Vectorization, and the Mandelbrot set](https://github.com/williamgilpin/cphy/blob/main/talks/python_intro.ipynb)
@@ -47,7 +49,9 @@ The class website is located [here](https://www.wgilpin.com/cphy/?utm_source=en_
 + [Lecture 8: Singular Value Decomposition](https://github.com/williamgilpin/cphy/blob/main/talks/svd_decomp.ipynb)
 + [Lecture 9: Krylov subspace methods & Conjugate gradient methods](https://github.com/williamgilpin/cphy/blob/main/talks/krylov_methods.ipynb)
 + [Lecture 10: Optimization in low dimensions](https://github.com/williamgilpin/cphy/blob/main/talks/convex_optimization_univariate.ipynb)
++ [Lecture 10: Optimization in low dimensions](https://github.com/williamgilpin/cphy/blob/main/talks/optimization_multivariate.ipynb)
 + [Lecture: Supervised Learning & The Ising Model](https://github.com/williamgilpin/cphy/blob/main/talks/supervised_learning_ising.ipynb)
++ [Lecture: Classification, Logistic Regression, and phases of matter](https://github.com/williamgilpin/cphy/blob/main/talks/logistic_regression_phases.ipynb)
 + [Lecture: Gaussian mixtures, expectation-maximization, and superresolution microscopy](https://github.com/williamgilpin/cphy/blob/main/talks/gmm_mle_em.ipynb)
 
 #### Additional Notes
