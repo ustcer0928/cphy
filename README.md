@@ -13,7 +13,7 @@
 
 ## Summary
 
-Materials for UT Austin's graduate computational physics course, taught in Fall 2022 by [William Gilpin](http://www.wgilpin.com/?utm_source=en_us_bhg226180pc).
+Materials for UT Austin's graduate computational physics course, taught by [William Gilpin](http://www.wgilpin.com/?utm_source=en_us_bhg226180pc).
 
 This course aims to provide a very broad survey of computational methods that are particularly relevant to modern physics research. We will aim to cover efficient algorithm design and performance analysis, traditional numerical recipes such as integration and matrix manipulation, and emerging methods in data analysis and machine learning. Our goal by the end of the class will be to feel comfortable approaching diverse, open-ended computational problems that arise during research, and to be ready to design and share new algorithms with the broader research community.
 
@@ -29,15 +29,6 @@ The class website is located [here](https://www.wgilpin.com/cphy/?utm_source=en_
 + [HW4: Predicting turbulence with operator methods](https://github.com/williamgilpin/cphy/blob/main/hw/forecasting_regression_supervised.ipynb). *Covers Supervised learning, time series forecasting, ridge, kernel, and logistic regression*
 + [Homework solutions](https://github.com/williamgilpin/cphy/blob/main/hw/solutions/)
 
-#### Laboratory Exercises
-+ [Lab 1: Getting started with Python](labs/getting_started_with_python.md)
-+ [Lab 2: git, GitHub, and GitHub Pages](labs/git_and_github.md)
-+ [Lab 3: Documentation and Formatting](labs/documentation_and_formatting.md)
-+ [Lab 4: Automatically creating online documentation with Sphinx](http://www.wgilpin.com/howto/howto_sphinx.html)
-+ [Lab 5: Unit Testing](http://www.wgilpin.com/howto/python_unit_testing.html)
-+ [Lab 6: Structuring an Open-Source Repository](http://www.wgilpin.com/howto/python_project.html)
-
-
 #### Lecture Slides and Notes
 + [Lecture 1: Python for Scientific Computing, Vectorization, and the Mandelbrot set](https://github.com/williamgilpin/cphy/blob/main/talks/python_intro.ipynb)
 + [Lecture 2: Inheritance, Object-Oriented Programming, and the Game of Life](https://github.com/williamgilpin/cphy/blob/main/talks/inheritance_game_of_life.ipynb)
@@ -51,6 +42,10 @@ The class website is located [here](https://www.wgilpin.com/cphy/?utm_source=en_
 + [Lecture 10: Optimization in low dimensions](https://github.com/williamgilpin/cphy/blob/main/talks/convex_optimization_univariate.ipynb)
 + [Lecture 11: Multivariate Optimization and Potential Flows](https://github.com/williamgilpin/cphy/blob/main/talks/optimization_multivariate.ipynb)
 + [Lecture 12: Numerical Integration and predicting chaos](https://github.com/williamgilpin/cphy/blob/main/talks/lorenz_odeint.ipynb)
++ [Lecture 13: Variable step integration, symplectic and stochastic systems](https://github.com/williamgilpin/cphy/blob/main/talks/integrator_chaos_variable_step.ipynb)
++ [Lecture: A pragmatist's guide to numerical integration](https://github.com/williamgilpin/cphy/blob/main/talks/pragmatic_integration.ipynb)
++ [Lecture: Boundary value problems and electrodynamics](https://github.com/williamgilpin/cphy/blob/main/talks/laplace_equation.ipynb)
++ [Lecture: Shocks, solitons, and hyperbolic partial differential equations](https://github.com/williamgilpin/cphy/blob/main/talks/hyperbolic_pde.ipynb)
 + [Lecture: Supervised Learning & The Ising Model](https://github.com/williamgilpin/cphy/blob/main/talks/supervised_learning_ising.ipynb)
 + [Lecture: Classification, Logistic Regression, and phases of matter](https://github.com/williamgilpin/cphy/blob/main/talks/logistic_regression_phases.ipynb)
 + [Lecture: Overfitting, bias-variance tradeoff, and double-descent](https://github.com/williamgilpin/cphy/blob/main/talks/overfitting_bias_variance_free_lunch.ipynb)
@@ -58,7 +53,13 @@ The class website is located [here](https://www.wgilpin.com/cphy/?utm_source=en_
 + [Lecture: Time series representation, featurizing chaos, kernel methods](https://github.com/williamgilpin/cphy/blob/main/talks/time_series_chaos_clustering.ipynb)
 + [Lecture: Gaussian mixtures, expectation-maximization, and superresolution microscopy](https://github.com/williamgilpin/cphy/blob/main/talks/gmm_mle_em.ipynb)
 
-
+#### Laboratory Exercises
++ [Lab 1: Getting started with Python](labs/getting_started_with_python.md)
++ [Lab 2: git, GitHub, and GitHub Pages](labs/git_and_github.md)
++ [Lab 3: Documentation and Formatting](labs/documentation_and_formatting.md)
++ [Lab 4: Automatically creating online documentation with Sphinx](http://www.wgilpin.com/howto/howto_sphinx.html)
++ [Lab 5: Unit Testing](http://www.wgilpin.com/howto/python_unit_testing.html)
++ [Lab 6: Structuring an Open-Source Repository](http://www.wgilpin.com/howto/python_project.html)
 
 
 #### Additional Notes
